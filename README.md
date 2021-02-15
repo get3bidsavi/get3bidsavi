@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, .NET, NodeJs, Python, Powershell, Bash scripting
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me avijits@yourvc.club
+- 📫 How to reach me avi@get3bids.com
 
 <!---
 get3bidsavi/get3bidsavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
